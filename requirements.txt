@@ -1,0 +1,4 @@
+pip install os
+pip install time
+pip install web3
+pip install python-dotenv
